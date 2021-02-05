@@ -3,4 +3,4 @@ Analysis of data about Star Wars Viewers I am using a data set posted by "fiveth
 
 I made this project in order to gain experience with pandas and numpy libraries. 
 
-I present the outcomes in a .ppt file 
+I present the outcomes in a .pdf file 
